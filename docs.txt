@@ -1,0 +1,14 @@
+1, Học vuejs
+    - Lifecycle Hooks
+    - Options / Data
+    - Instance Properties
+    - Instance Methods / Events
+    - Directives
+2, Học về Linux Basic Commands
+3, Học Github
+    - https://thachpham.com/series/git-co-ban
+4, Học NodeJS - backend
+    - Hiểu cơ bản
+    - Tạo một server đơn giản
+5, Postgresql (sql db) - sql
+6, Mongodb (no sql db)
